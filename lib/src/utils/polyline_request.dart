@@ -101,7 +101,7 @@ class PolylineRequest {
     }
 
     return Uri.https(
-      "maps.googleapis.com",
+      "maps.gomaps.pro",
       "maps/api/directions/json",
       _getParams()
         ..addAll(
